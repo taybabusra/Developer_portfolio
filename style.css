@@ -15,9 +15,10 @@
     width: 50%;
     padding-left: 5%;
     padding-top: 10px;
+    margin-bottom: 100px;
  }
  .half-width img{
-    width:100%;
+    width:60%;
     padding-top: 50px;
    
  }
@@ -31,4 +32,10 @@
  }
  .top{
    background-image: url(images/top-banner.png) ;
+   background-repeat: no-repeat;
+ }
+ .dream{
+   background-image:url(images/dream-bg.png) ;
+   background-repeat: no-repeat;
+   background-position-x: right;
  }
