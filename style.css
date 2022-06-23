@@ -55,4 +55,18 @@
    background-image: url(images/exp-bg.png);
    background-repeat: no-repeat;
    background-position: left;
+   border-left: 10px ;
+ }
+ #web-dev{
+  border-left: 10px solid ;
+  border-image: linear-gradient(blue , cyan);
+  border-image-slice: 1;
+ }
+ #full-stack{
+  border-left: 10px solid ;
+  border-image: linear-gradient(red,orange);
+  border-image-slice: 1;
+ }
+ footer p{
+  text-align: center;
  }
