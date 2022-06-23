@@ -8,14 +8,15 @@
  .orange-color{
     color: orange;
  }
- section{
+ .felxible{
     display: flex;
+    margin-bottom: 100px;
  }
  .half-width{
     width: 50%;
     padding-left: 5%;
     padding-top: 10px;
-    margin-bottom: 100px;
+    
  }
  .half-width img{
     width:60%;
@@ -38,4 +39,20 @@
    background-image:url(images/dream-bg.png) ;
    background-repeat: no-repeat;
    background-position-x: right;
+ }
+ .experience-item{
+   width: 40%;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding: 20px;
+   border-radius: 10px;
+   box-shadow: 10px 10px 40px gray;
+ }
+ h2{
+   font-size: x-large;
+ }
+ .experience{
+   background-image: url(images/exp-bg.png);
+   background-repeat: no-repeat;
+   background-position: left;
  }
