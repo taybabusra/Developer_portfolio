@@ -1,16 +1,17 @@
-Developer Portfolio
+## Developer Portfolio
+
 This is a personal portfolio website designed to showcase the skills, experiences, and goals of a developer. The website is fully responsive and built using HTML and CSS, styled with the Google Fonts library for a clean and modern appearance.
 
-🌟 Features
-Welcome Section:
+## 🌟 Features
+### Welcome Section:
 Introduces the developer with a personalized message and a call-to-action button to view the LinkedIn profile.
-Dream Big Section:
+### Dream Big Section:
 Highlights the developer's aspirations, basic skills in web development, and plans for future growth.
-Experience Section:
+### Experience Section:
 Outlines past experiences with clear distinctions between roles and progress made over time.
-Custom Styling:
+### Custom Styling:
 Includes flexible layouts, background images, and gradient styling for a visually appealing design.
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML: The structure and content of the website.
 CSS: For styling and layouts, including custom gradients, flexbox, and shadow effects.
 Google Fonts: "Poppins" font family for modern and clean typography.
