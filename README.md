@@ -15,9 +15,9 @@ Includes flexible layouts, background images, and gradient styling for a visuall
 HTML: The structure and content of the website.
 CSS: For styling and layouts, including custom gradients, flexbox, and shadow effects.
 Google Fonts: "Poppins" font family for modern and clean typography.
-📁 File Structure
-bash
-Copy code
+## 📁 File Structure
+### bash
+
 Developer_portfolio/
 │
 ├── images/                  # Contains the image assets for the website
@@ -34,24 +34,23 @@ Dream Big Section
 Experience Section
 
 
-🚀 How to Use
+### 🚀 How to Use
 Clone the Repository:
 Clone this repository to your local machine using:
 
 bash
-Copy code
 git clone https://github.com/Faim-717/Developer_portfolio.git  
 Open in Browser:
 Open the index.html file in your browser to view the website.
 
-Modify:
+## Modify:
 
 Update the content in index.html to personalize the portfolio.
 Replace the images in the images/ or showOff/ folders to match your branding.
 Deploy:
 Host the website on any platform, such as GitHub Pages, Netlify, or Vercel.
 
-🌈 Contribution
+## 🌈 Contribution
 Contributions are welcome! To contribute:
 
 Fork the repository.
